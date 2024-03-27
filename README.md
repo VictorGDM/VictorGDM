@@ -8,12 +8,12 @@
 
 ###
 
-<div align="center">
+<-- <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-</div>
+</div> -->
 
 ###
 
