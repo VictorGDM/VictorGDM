@@ -28,7 +28,7 @@
   <img width="50" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
   <img width="50" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="50" />
